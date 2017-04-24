@@ -1,1 +1,0 @@
-Note that MCA is not working code, and cluster analysis will not work until I scrape the data and either remove NAN rows or interpolate values.
