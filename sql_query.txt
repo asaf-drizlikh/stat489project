@@ -1,0 +1,1 @@
+SELECT `orbit_class`, `period_yr`, `q_au_1`, `q_au_2`, `h_mag`, `moid_au`, `pha` FROM `nasa` WHERE `pha` NOT LIKE '%n%a%' 
